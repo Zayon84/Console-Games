@@ -1,19 +1,17 @@
 ﻿// Console Games , David Almkvist 22 - sep
-    
+
 // The game list                                        // add new games here 
 string[] gameName_nr1 = new string[2];
 gameName_nr1[0] = "Snake";
 gameName_nr1[1] = " - ";
 
-
-
-
+Snake snakeGame = new Snake();
 
 DisplayTitle();
 
 DisplayMenu();
 
-
+snakeGame.StartSnakeGame();
 
 
 

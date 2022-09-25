@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartMenu", "StartMenu\StartMenu.csproj", "{520171B3-9BE7-4623-AD9E-6F7DE4FCE976}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game App", "StartMenu\Game App.csproj", "{520171B3-9BE7-4623-AD9E-6F7DE4FCE976}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
